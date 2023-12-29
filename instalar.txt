@@ -1,0 +1,6 @@
+instalar sympy de la siguiente forma:
+pip install sympy
+
+intalar la biblioteca tkinter de la siguiente forma:
+pip install tk
+
